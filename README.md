@@ -21,10 +21,12 @@ Por [Johnny Sánchez / CreateIT](https://www.createit.com.mx) · [JohnnyC-SH](ht
 
 | Plataforma | Archivo | Estado |
 |---|---|---|
-| **macOS** | `JohnnyIconMaker-macOS.dmg` | Próximamente (GitHub Releases) |
-| **Windows** | `JohnnyIconMaker-Windows.zip` | Próximamente (GitHub Releases) |
+| **Windows** | [`JohnnyIconMaker.rar`](downloads/JohnnyIconMaker.rar) | Disponible |
+| **macOS** | `JohnnyIconMaker-macOS.dmg` | Próximamente |
 
-Cuando estén listos, aparecerán en [Releases](https://github.com/JohnnyC-SH/JohnnyIconMaker/releases).
+**Windows:** descarga el `.rar`, extráelo y ejecuta `IconMaker.exe` (requiere [.NET 6 Desktop Runtime](https://dotnet.microsoft.com/download/dotnet/6.0) si no lo tienes).
+
+También puedes usar [GitHub Releases](https://github.com/JohnnyC-SH/JohnnyIconMaker/releases) cuando publiquemos versiones etiquetadas.
 
 ## ¿Qué hace?
 
