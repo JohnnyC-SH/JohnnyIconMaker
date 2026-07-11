@@ -1,0 +1,11 @@
+.DS_Store
+**/.DS_Store
+.vscode/
+.idea/
+
+# Prefer GitHub Releases for large binaries; keep folder for local staging
+downloads/*.dmg
+downloads/*.zip
+downloads/*.exe
+downloads/*.app
+!downloads/.gitkeep
