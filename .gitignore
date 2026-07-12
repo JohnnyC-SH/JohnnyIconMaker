@@ -3,9 +3,7 @@
 .vscode/
 .idea/
 
-# Prefer GitHub Releases for large binaries; keep folder for local staging
-downloads/*.dmg
-downloads/*.zip
+# Staging leftovers (published builds live in downloads/)
 downloads/*.exe
 downloads/*.app
 !downloads/.gitkeep
