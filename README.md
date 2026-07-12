@@ -26,7 +26,7 @@ Por [Johnny Sánchez / CreateIT](https://www.createit.com.mx) · [JohnnyC-SH](ht
 
 **Windows:** descarga el `.rar`, extráelo y ejecuta `IconMaker.exe` (requiere [.NET 6 Desktop Runtime](https://dotnet.microsoft.com/download/dotnet/6.0) si no lo tienes).
 
-**macOS:** abre el `.dmg`, arrastra **Johnny Icon Maker** a Aplicaciones. La primera vez macOS puede pedir permiso en Privacidad y seguridad (firma local de desarrollo).
+**macOS:** abre el `.dmg`, arrastra **Johnny Icon Maker** a Aplicaciones. Build **Universal** (Intel + Apple Silicon). La primera vez macOS puede pedir permiso en Privacidad y seguridad (firma local de desarrollo).
 
 ## ¿Qué hace?
 
