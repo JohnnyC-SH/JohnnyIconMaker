@@ -37,17 +37,33 @@ También puedes usar [GitHub Releases](https://github.com/JohnnyC-SH/JohnnyIconM
 
 ### Capturas
 
-**Vacío (listo para abrir imagen)**
+#### Windows
 
-![JohnnyIconMaker vacío](docs/screenshots/01-vacio.png)
+**Vacío**
 
-**Con imagen cargada (previews iOS / Android)**
+![Windows vacío](docs/screenshots/windows/01-vacio.png)
 
-![JohnnyIconMaker con icono](docs/screenshots/02-con-icono.png)
+**Con imagen (previews iOS / Android)**
 
-**Exportación generada (mipmaps Android + AppIcon iOS)**
+![Windows con icono](docs/screenshots/windows/02-con-icono.png)
 
-![Estructura exportada](docs/screenshots/03-exportacion.png)
+**Exportación (mipmaps Android + AppIcon iOS)**
+
+![Windows exportación](docs/screenshots/windows/03-exportacion.png)
+
+#### macOS
+
+**Vacío**
+
+![macOS vacío](docs/screenshots/macos/01-vacio.png)
+
+**Con imagen (previews iOS / Android)**
+
+![macOS con icono](docs/screenshots/macos/02-con-icono.png)
+
+**Exportación (mipmaps Android + AppIcon iOS)**
+
+![macOS exportación](docs/screenshots/macos/03-exportacion.png)
 
 ## Licencia de uso
 
